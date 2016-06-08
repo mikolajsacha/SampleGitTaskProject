@@ -1,4 +1,9 @@
 {
   "Title": "Przykładowy Projekt",
-  "ProjectMembersNotInRepository": null
+  "ProjectMembersNotInRepository": [
+    {
+      "Name": "Nowy użytkownik z brancha master",
+      "Email": "test@test.pl"
+    }
+  ]
 }
