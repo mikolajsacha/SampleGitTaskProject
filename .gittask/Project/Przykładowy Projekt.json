@@ -2,12 +2,24 @@
   "Title": "Przykładowy Projekt",
   "ProjectMembersNotInRepository": [
     {
-      "Name": "Nowy użytkownik z brancha other 1",
-      "Email": "mikolajsacha@gmail.com"
+      "Name": "Jan Kowalski",
+      "Email": "kowalski@o2.pl"
     },
     {
-      "Name": "Nowy użytkownik z bracha other 2",
-      "Email": "test@test.pl"
+      "Name": "Janek Kowalski",
+      "Email": "kowalski@o2.pl"
+    },
+    {
+      "Name": "Jan Kowalski",
+      "Email": "jan.kowalski@gmail.pl"
+    },
+    {
+      "Name": "Janek",
+      "Email": "jan.kowalski@gmail.pl"
+    },
+    {
+      "Name": "Janek",
+      "Email": "janek@interia.pl"
     }
   ]
 }
