@@ -2,6 +2,10 @@
   "Title": "Przykładowy Projekt",
   "ProjectMembersNotInRepository": [
     {
+      "Name": "Nowy użytkownik z brancha master",
+      "Email": "test@test.pl"
+    },
+    {
       "Name": "Nowy użytkownik z brancha other 1",
       "Email": "mikolajsacha@gmail.com"
     },

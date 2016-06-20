@@ -1,0 +1,13 @@
+{
+  "Title": "Zadanie 4",
+  "Content": "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. ",
+  "Priority": 0,
+  "State": "TO DO",
+  "AssignedMembers": [
+    {
+      "Name": "Mikolaj Sacha",
+      "Email": "mikolajsacha@gmail.com"
+    }
+  ],
+  "Comments": []
+}

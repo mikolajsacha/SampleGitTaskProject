@@ -1,7 +1,7 @@
 {
   "Title": "Zadanie pierwsze",
-  "Content": "Nowa tresć na branchu other",
-  "Priority": 3,
+  "Content": "Suspendisse quis tortor. Nunc convallis at, elit. Proin posuere. In pede. \r\n\r\nVestibulum laoreet sapien. Donec ipsum dolor ut arcu.\r\n\r\nVestibulum ante ipsum pretium wisi. Phasellus a purus.\r\nAliquam eleifend, ligula. Sed dignissim nibh. Phasellus fermentum in, accumsan urna, eu libero. Aliquam erat eget libero nunc, fringilla sed, aliquam quis, eleifend neque dui, accumsan vestibulum. Cras mattis, magna dolor, scelerisque rhoncus aliquam arcu. Aenean dictum sem. Etiam dolor. Mauris fringilla augue quis lacus. Aenean congue odio condimentum nulla.\r\n\r\nSed lobortis elit. Curabitur vel bibendum a, euismod pede massa, feugiat pulvinar. Nulla dignissim. ",
+  "Priority": 1,
   "State": "TO DO",
   "AssignedMembers": [],
   "Comments": []
