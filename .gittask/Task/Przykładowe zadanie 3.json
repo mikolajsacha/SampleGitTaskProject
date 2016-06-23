@@ -1,0 +1,21 @@
+{
+  "Title": "Przykładowe zadanie 3",
+  "Content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+  "Priority": 3,
+  "State": "DONE",
+  "AssignedMembers": [
+    {
+      "Name": "Maria Nowak",
+      "Email": "maria_nowak@gmail.com"
+    },
+    {
+      "Name": "Mikolaj Sacha",
+      "Email": "mikolajsacha@gmail.com"
+    },
+    {
+      "Name": "Jan Kowalski",
+      "Email": "kowalski@o2.pl"
+    }
+  ],
+  "Comments": []
+}
